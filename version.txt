@@ -1,2 +1,2 @@
-1.3.5
-https://github.com/nv-xelyas/nvcl-updates/releases/download/v1.3.5/nvcleaner-v1.3.5.zip
+1.3.6
+https://github.com/nv-xelyas/nvcl-updates/releases/download/v1.3.6/nvcleaner-v1.3.6.zip
